@@ -1,0 +1,2 @@
+ Selenium kütüphanesini kullanarak Ekşi Sözlük’teki başlıkları ve bu başlıklar altındaki yorumları otomatik olarak topladık ve dosyalara kaydettik 
+amacımız güncel başlıkları toplamak ders içerisinde ekşi sözlüğün yapısından bahsetmişti hoca.
